@@ -1,6 +1,6 @@
 {
   "name": "nyholm_ink",
-  "version": "3.1.10",
+  "version": "4.0.0",
   "description": "SAPO InK - Interface Toolkit",
   "homepage": "http://ink.sapo.pt",
   "main": "dist/js/ink-all.js",
