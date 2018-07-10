@@ -667,7 +667,7 @@
 @mixin css-js-bridge-legacy($breakpoints) {
     
     &:after {
-        content: js-bridge($grid-breakpoints);
+        content: js-bridge($ink-grid-breakpoints);
         display: none;
     }
     font-size: $base-font-size;

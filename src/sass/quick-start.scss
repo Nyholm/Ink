@@ -16,4 +16,4 @@
 // IMPORT CONFIG FILES (THESE CONTAIN VARIABLE DEFINITIONS)
 @import "mixins/quick-start";
 
-@include generate-quick-start($grid-breakpoints);
+@include generate-quick-start($ink-grid-breakpoints);

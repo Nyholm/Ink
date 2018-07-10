@@ -23,7 +23,7 @@ $grid-max-width: 1440px !default;
  *  
  */
 
-$grid-breakpoints: (
+$ink-grid-breakpoints: (
     ('screen', 'xlarge', 1261px, null, 2em, 1.08em, false),
     ('screen', 'large', 961px, 1260px, 1.75em, 1.05em, true),
     ('screen', 'medium', 641px, 960px, 1.5em, 1em, false),
